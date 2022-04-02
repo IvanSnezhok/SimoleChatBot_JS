@@ -56,7 +56,7 @@ function end() {
 }
 
 
-greet('Aid', '2020')  // change it as you need
+greet('VEL', '2022')
 remind_name();
 guess_age();
 count();
